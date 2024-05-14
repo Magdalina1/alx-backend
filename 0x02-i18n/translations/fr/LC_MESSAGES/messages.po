@@ -1,0 +1,2 @@
+'msgid "Bienvenue chez Holberton"'
+'msgstr "Bonjour monde!"'
